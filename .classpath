@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/曹兆祺/Downloads/mysql-connector-java-5.1.44 (1).zip"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/曹兆祺/Downloads/gson-2.7.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/曹兆祺/Downloads/ezmorph-1.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/曹兆祺/Downloads/json-lib-2.2.3-jdk15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/曹兆祺/Downloads/mysql-connector-java-5.1.39-bin.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
